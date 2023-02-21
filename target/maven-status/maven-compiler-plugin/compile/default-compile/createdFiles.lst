@@ -1,0 +1,13 @@
+PageObjects\Apparel.class
+Test\ApparelTest.class
+Reports\Reports.class
+PageObjects\Brand.class
+General\MainCall.class
+Test\BrandTest.class
+Test\LoginTest.class
+PageObjects\Men.class
+General\Base.class
+Test\MenTest.class
+PageObjects\Skincare.class
+PageObjects\LoginPage.class
+Test\SkincareTest.class
